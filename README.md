@@ -1,6 +1,6 @@
 # WCTF2019
 
-# Instruction
+# Files
 
 - demo-0.0.1-SNAPSHOT.jar
 
